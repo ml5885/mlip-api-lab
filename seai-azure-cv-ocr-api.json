@@ -33,17 +33,8 @@
 				"url": {
 					"raw": "https://seai-image-caption.cognitiveservices.azure.com/vision/v3.2/ocr?language=en&detectOrientation=true&model-version=latest",
 					"protocol": "https",
-					"host": [
-						"seai-image-caption",
-						"cognitiveservices",
-						"azure",
-						"com"
-					],
-					"path": [
-						"vision",
-						"v3.2",
-						"ocr"
-					],
+					"host": ["seai-image-caption", "cognitiveservices", "azure", "com"],
+					"path": ["vision", "v3.2", "ocr"],
 					"query": [
 						{
 							"key": "language",
